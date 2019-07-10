@@ -9,7 +9,7 @@
     "@types/reach__router": "^1.2.4",
     "@types/react": "16.8.22",
     "@types/react-dom": "16.8.4",
-    "@types/styled-components": "4.0.3",
+    "@types/styled-components": "4.1.17",
     "dayjs": "^1.8.14",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
